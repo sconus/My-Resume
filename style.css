@@ -1,0 +1,11 @@
+/* style sheet for my resume */
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    padding: 50px;
+}
+ul {
+    list-style-type: none;
+}
+
